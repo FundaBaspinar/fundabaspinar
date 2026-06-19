@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Funda, MSc Data Analytics student based in Ireland.
+I'm Funda, MSc Data Analytics student based in Ireland
 
 - 🔭 I’m currently learning Python (Pandas, NumPy),SQL and Data Visualization
 - 🌱 Interested in data analysis, business intelligence, and data storytelling
