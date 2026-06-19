@@ -6,7 +6,7 @@ I'm Funda, MSc Data Analytics student based in Ireland.
 - 🌱 Interested in data analysis, business intelligence, and data storytelling
 - 👯 Open to internship opportunities in Ireland starting from 2026
 
-# Projects
+### Projects
 
 ⚡ Coming soon...
 
