@@ -2,9 +2,9 @@
 
 I'm Funda, MSc Data Analytics student based in Ireland
 
-- 🔭 I’m currently learning Python (Pandas, NumPy),SQL and Data Visualization
-- 🌱 Interested in data analysis, business intelligence, and data storytelling
-- 👯 Open to internship opportunities in Ireland starting from 2026
+- I’m currently learning Python (Pandas, NumPy),SQL and Data Visualization
+- Interested in data analysis, business intelligence, and data storytelling
+- Open to internship opportunities in Ireland starting from 2026
 
 ### Projects
 
